@@ -1,0 +1,2 @@
+# Pin any third-party Python packages added during implementation.
+# The initial scaffold uses only Python 3.11's standard library.

@@ -1,0 +1,5 @@
+{
+  "source_url": "https://arxiv.org/html/1706.03762v7",
+  "focus": "Explain scaled dot-product attention from Section 3.2.1 with small editable Q, K, and V matrices. Show scores, attention weights, and output; compare scaling on and off.",
+  "audience": "Engineering undergraduate familiar with matrices but new to attention"
+}
